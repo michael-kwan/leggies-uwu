@@ -7,4 +7,6 @@
 "loooooooooooooooo {0} ooooooooooooool"
 "{0}! heehoo!"
 "thank god {0} is not a birb"
+"bandon cant snipe a {0} now"
+":crab: :crab: {0} :crab: :crab:"
 "k ur going to have to tineye this"
